@@ -14,4 +14,4 @@ Javascript kullanılarak Müzik Çalar uygulaması geliştirildi.
 
 # Link
 
-![Website](https://graceful-sunflower-1d224c.netlify.app/)
+[Website](https://graceful-sunflower-1d224c.netlify.app/)
