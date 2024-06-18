@@ -13,7 +13,7 @@ This is a simple web application developed using JavaScript to play music.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kamilerdogmus96/leaflet-map-notes.git
+   git clone https://github.com/KamilErdogmus/Playlist.git
    ```
 2. Open the index.html file in your browser
 
